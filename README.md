@@ -16,6 +16,10 @@ A modern, responsive landing page for a plant-themed website built using **HTML*
 
 ---
 
+## Live
+
+[live](https://amrithaamzz.github.io/Monstera-Landing-Page/)
+
 ## SYSTEM SCREEN
 
 ![image](./system.png)
